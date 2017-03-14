@@ -5,6 +5,9 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Variables
+	
+	A variable is a name for piece of information, any kind of information you decide.  You might have a variable called "hairColor" which stores the information "brown", or "numberOfBrothers" which stores the information 3.
+	
 	* Strings
 	* Functions (arguments, `return`)
 	* `if` statements
